@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Emmanuel's Personal Site</title>
+    <style>
+      body {
+        background-color: #eaf6f6;
+      }
+      /* hr{
+        background-color: white;
+        border-style: none;
+        height: 2px;
+        width: 30%;
+      } */
+    </style>
+    <link rel="stylesheet" href="./CSS/styles.css" />
+  </head>
+  <body style="background-color: #d6e4e5">
+    <table cellspacing="20">
+      <tr>
+        <td>
+          <img
+            src="./fake-human-circle-img.png"
+            alt="Emmanuel Profile Picture"
+          />
+        </td>
+        <td>
+          <h1>Emmanuel Cyprian</h1>
+          <p>
+            <em
+              >Full Stack
+              <strong
+                ><a href="http://www.instagram.com">Developer</a></strong
+              ></em
+            >
+          </p>
+          <p>
+            A Dedicated and Efficient full stack Developer with Two years’
+            experience in application Layers, Presentation layers and databases.
+            Proficient in M.E.A.N and M.E.R.N stack and a certified AWS cloud
+            Practitioner, AWS Solutions Architect and AWS Developer Associate.
+            Having a background in B.Scs. Mechanical Engineering (Product
+            Design), M.Sc. Engineering Management and M.Sc. Business
+            Administration with Human resource Management and have led a Team of
+            4-12 people across the Technology, Business and Design Departments.
+            An Aspiring Olympic Gold Medallist in the 100 and 200 meters sprint.
+          </p>
+        </td>
+      </tr>
+    </table>
+
+    <hr />
+    <h3>Education</h3>
+    <ul>
+      <li>Ulster University</li>
+      <li>Coventry University</li>
+      <li>Eastern Mediteranean University</li>
+    </ul>
+    <hr />
+    <h3>Work experience</h3>
+    <!--<table border = "1px">-->
+    <table>
+      <thead>
+        <tr>
+          <th>Dates</th>
+          <th>Work</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2020 - 2022</td>
+          <td>Full-Stack web Development</td>
+        </tr>
+        <tr>
+          <td>2019</td>
+          <td>Mechanical Engineer</td>
+        </tr>
+      </tbody>
+      <tfoot></tfoot>
+    </table>
+    <hr />
+    <h3>Skills</h3>
+    <!--table border="1px"-->
+    <table cellspacing="10px">
+      <tbody>
+        <tr>
+          <td>Web Development</td>
+          <td>⭐⭐⭐⭐⭐</td>
+          <td>React</td>
+          <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>typescript</td>
+          <td>⭐⭐⭐</td>
+          <td>AWS</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+      </tbody>
+      <tfoot></tfoot>
+    </table>
+
+    <hr />
+    <h3><a href="./sports.html">My sports</a></h3>
+    <h3><a href="./contact.html">Contact</a></h3>
+  </body>
+</html>

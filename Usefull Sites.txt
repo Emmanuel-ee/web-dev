@@ -1,0 +1,46 @@
+https://dailyui.com/
+https://www.canva.com/
+https://collectui.com/
+https://fonts.google.com/
+https://www.cssfontstack.com/
+
+https://www.flaticon.com/
+https://giphy.com/
+
+https://css3buttongenerator.com/
+
+https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3
+
+https://bootsnipp.com/
+
+JavaScript
+https://web.stanford.edu/~cpiech/karel/ide.html
+
+https://w3schools.com
+https://you.com/
+
+https://minifier.org/
+
+https://www.w3schools.com/jsref/dom_obj_style.asp
+
+https://www.learnenough.com/command-line-tutorial
+
+https://learngitbranching.js.org/
+
+https://copyassignment.com/top-100-python-projects-with-source-code/
+
+DataBase
+
+https://sqliteonline.com/
+
+MongoDB file
+C:\Program Files\MongoDB\Server\6.0\data\
+
+
+//React
+https://codesandbox.io/
+https://babeljs.io/
+
+
+Ubuntu User Name = emmanuel
+Ubuntu Password = 1234
